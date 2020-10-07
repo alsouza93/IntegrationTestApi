@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/IntegrationTestApi
+/IntegrationTest/obj
+/IntegrationTestApi/bin/Debug/netcoreapp3.1
+/IntegrationTestApi/obj
+/IntegrationTestApi/bin/Release/netcoreapp3.1
+/IntegrationTestApi/IntegrationTestApi.csproj.user
