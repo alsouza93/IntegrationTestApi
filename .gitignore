@@ -8,3 +8,4 @@
 /IntegrationTestApi/obj
 /IntegrationTestApi/bin/Release/netcoreapp3.1
 /IntegrationTestApi/IntegrationTestApi.csproj.user
+/IntegrationTest/bin/Debug/netcoreapp3.1
