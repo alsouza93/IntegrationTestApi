@@ -2,6 +2,6 @@
 {
     public interface IWeatherRepository
     {
-        WeatherForecast GetWeather();
+        WeatherForecast GetWeatherForecast();
     }
 }

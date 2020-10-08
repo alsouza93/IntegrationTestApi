@@ -13,11 +13,11 @@ namespace IntegrationTestApi.Controllers
         }
 
         [HttpGet("/report")]
-        public ContentResult GetWeatherReport()
+        public ContentResult GetWeatherForecastReport()
         {
             return new ContentResult()
             {
-                Content = _weatherService.WriteWeatherReport(),
+                Content = _weatherService.WriteWeatherForecastReport(),
                 StatusCode = 200
             };
         }

@@ -2,6 +2,6 @@
 {
     public interface IWeatherService
     {
-        string WriteWeatherReport();
+        string WriteWeatherForecastReport();
     }
 }
